@@ -59,7 +59,7 @@ Stamp:
 -----
 Position stamp with mouse; change with key/num pad
 
->Waterbrush: 
+Waterbrush: 
 -----------
 >Hold mouse down to draw
 
