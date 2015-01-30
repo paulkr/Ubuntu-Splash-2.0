@@ -17,7 +17,7 @@ Brush:
 
 Eraser: 
 ------
->old mouse down to draw
+>Hold mouse down to draw
 
 Pencil: 
 ------
@@ -33,7 +33,7 @@ Spray:
 
 Flood 
 -----
->Fill: Fills area with color
+>Fills area with color
 
 Text: 
 -----
@@ -57,7 +57,7 @@ Polygon:
 
 Stamp: 
 -----
-Position stamp with mouse; change with key/num pad
+>Position stamp with mouse; change with key/num pad
 
 Waterbrush: 
 -----------
