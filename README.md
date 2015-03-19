@@ -11,77 +11,85 @@ Features
 
 Ubuntu Splash has most features that you would find on a regular paint program
 
-Brush: 
-------
->Hold mouse down to draw
+<table style="width:100%">
+	<tr>
+		<th>Tool</th>
+		<th>Usage</th>
+	</tr>
+	<tr>
+		<td>Brush</td>
+		<td>Hold mouse to draw</td>
+	</tr>
+	<tr>
+		<td>Eraser</td>
+		<td>Hold mouse down to draw</td>
+	</tr>
+	<tr>
+		<td>Pencil</td>
+		<td>Hold mouse down to draw</td>
+	</tr>
+	<tr>
+		<td>Ink</td>
+		<td>Hold mouse down to draw</td>
+	</tr>
+	<tr>
+		<td>Spray</td>
+		<td>Spray effect when clicked</td>
+	</tr>
+	<tr>
+		<td>Bucket</td>
+		<td>Fills area with color</td>
+	</tr>
+	<tr>
+		<td>Text</td>
+		<td>Type to draw text; reuturn to stop</td>
+	</tr>
+	<tr>
+		<td>Rectangle</td>
+		<td>Hold to draw resizable rectangle</td>
+	</tr>
+	<tr>
+		<td>Circle</td>
+		<td>Hold to draw resizable circle</td>
+	</tr>
+	<tr>
+		<td>Line</td>
+		<td>Draw line from one point to another</td>
+	</tr>
+	<tr>
+		<td>Polygon</td>
+		<td>Click for vertices; right-click to close shape</td>
+	</tr>
+	<tr>
+		<td>Stamp</td>
+		<td>Position stamp with mouse; change with key/num pad</td>
+	</tr>
+	<tr>
+		<td>Waterbrush</td>
+		<td>Hold mouse down to draw</td>
+	</tr>
+	<tr>
+		<td>Blur</td>
+		<td>Hold mouse down to draw</td>
+	</tr>
+	<tr>
+		<td>Crop</td>
+		<td>Hold mouse down to select area and click to place it</td>
+	</tr>
+	<tr>
+		<td>Undo/Redo</td>
+		<td>Use CTRL-Z, CTRL-Y or the respective buttons buttons</td>
+	</tr>
+	<tr>
+		<td>Save/Load</td>
+		<td>Use CTRL-S, CTRL-O or the respective buttons buttons</td>
+	</tr>
+	<tr>
+		<td>Email</td>
+		<td>Click on the email button to email canvas (Refer to PyMail for setup)</td>
+	</tr>
 
-Eraser: 
-------
->Hold mouse down to draw
-
-Pencil: 
-------
->Hold mouse down to draw
-
-Ink: 
------
->Hold mouse down to draw
-
-Spray: 
------
->Spray effect when clicked
-
-Flood 
------
->Fills area with color
-
-Text: 
------
->Type to draw text; reuturn to stop
-
-Rectangle:
----------
->Hold to draw resizable rectangle
-
-Circle: 
-------
->Hold to draw resizable circle
-
-Line: 
------
->Draw line from one point to another
-
-Polygon:
---------
->Click for vertices; right-click to close shape
-
-Stamp: 
------
->Position stamp with mouse; change with key/num pad
-
-Waterbrush: 
------------
->Hold mouse down to draw
-
-Blur: 
------
->Hold mouse down to draw
-
-Crop: 
------
->Hold mouse down to select area and click to place it
-
-Undo/Redo: 
-----------
->Use CTRL-Z, CTRL-Y or the respective buttons buttons
-
-Save/Load: 
-----------
->Use CTRL-S, CTRL-O or the respective buttons buttons
-
-Email: 
------
->Click on the email button
+</table>
 
 Important:
 ----------
