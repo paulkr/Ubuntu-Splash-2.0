@@ -86,7 +86,7 @@ Ubuntu Splash has most features that you would find on a regular paint program
 	</tr>
 	<tr>
 		<td>Email</td>
-		<td>Click on the email button to email canvas (Refer to PyMail for setup)</td>
+		<td>Click on the email button to email canvas (Refer to Usage for PyMail setup)</td>
 	</tr>
 
 </table>
@@ -95,7 +95,7 @@ Important:
 ----------
 >Use up/down arrows to switch between layers
 
->se scroll wheel to change size
+>Use scroll wheel to change size
 
 >Click on a filter to apply to it to that layer
 
