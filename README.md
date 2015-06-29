@@ -93,15 +93,15 @@ Ubuntu Splash has most features that you would find on a regular paint program
 
 Important:
 ----------
-+Use up/down arrows to switch between layers
++ Use up/down arrows to switch between layers
 
-+Use scroll wheel to change size
++ Use scroll wheel to change size
 
-+Click on a filter to apply to it to that layer
++ Click on a filter to apply to it to that layer
 
-+Click on the fill checkbox for shape fill on or off, respectively
++ Click on the fill checkbox for shape fill on or off, respectively
 
-+Click on the guitar folder to load your music
++ Click on the guitar folder to load your music
 
 Setup
 -----
