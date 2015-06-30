@@ -106,7 +106,7 @@ Important:
 Setup
 -----
 
-Make sure you have a `pygame` version relative to your python version installed
+Make sure you have the `pygame` module for python3 installed.
 
 Usage
 -----
