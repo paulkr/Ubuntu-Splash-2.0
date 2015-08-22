@@ -1,10 +1,10 @@
 Ubuntu Splash 2.0
 =================
 
-A Microsoft Paint clone written in python using the pygame graphics library.
+A Microsoft Paint clone written in python using the pygame graphics library for the ICS3U Paint Project.
 
 For this project, we needed to select an overall theme and as you can tell from it's title,
-I decided my theme to be the Ubuntu Desktop
+I decided my theme to be the Ubuntu Desktop.
 
 Features
 --------
@@ -112,9 +112,9 @@ Usage
 -----
 
 Run the program simply by opening the `main.py` file
-To use the PyMail feature, enter your gmail login info in the `PyMail.py` file
+To use the PyMail feature, enter your gmail login info in the `login.py` file
 
 
-www.paulKr.com
+www.PaulKr.com
 
 

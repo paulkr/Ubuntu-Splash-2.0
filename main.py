@@ -229,10 +229,8 @@ tools = {
 class Tool:
 	""" Non object oriented class to organize tools -> To make code neater """
 
-	def __init__(self,layer,color,size):
-		self.layer = layer
-		self.color = color
-		self.size = size
+	def __init__(self):
+		pass
 
 class brush(Tool):
 	""" Brush / Eraser Tool - Draw circles/rectangles between distance of points """
@@ -593,7 +591,7 @@ class email(Tool):
 		try:
 			if len(user_email) > 2 and user_email.count("@") == 1 and user_email.count(".") >= 1: # Send if it is a valid email address
 				image.save(screen.subsurface(rects["canvas"]),"local/saves/email%d.png"%saved)
-				send(user_email,"email%d.png"%saved)
+				send(user_email, "Your masterpiece is ready!", "Thanks for using Ubuntu Splash 2.0", "email%d.png"%saved)
 				messagebox.showinfo(title="Email Sent", message="Email sent successfully!\nEvent logged to file.")
 			else:
 				f = open("local/events.log","a") # Log to events file without overwrite

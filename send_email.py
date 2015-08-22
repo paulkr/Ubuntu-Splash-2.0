@@ -18,7 +18,7 @@ def send(to,subject,content,file_name):
 	""" Sends email using credectials passed as arguments """
 	
 	# Log file to keep track of events
-	log_file = open("events.log","a")
+	log_file = open("local/events.log","a")
 
 	try:
 		# Main
