@@ -114,6 +114,12 @@ Usage
 Run the program simply by opening the `main.py` file
 To use the PyMail feature, enter your gmail login info in the `login.py` file
 
+Note
+----
+
++ I do not plan to continue development on this project since it was for an older school project. 
+
++ Sorry for some redundant code, I was learning ;)
 
 www.PaulKr.com
 
